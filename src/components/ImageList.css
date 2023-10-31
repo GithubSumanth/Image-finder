@@ -1,0 +1,4 @@
+.container {
+  columns: 6 200px;
+  column-gap: 10px;
+}
